@@ -1,2 +1,2 @@
-# Tiny-d10
+# tiny-d10
 The free, tiny tabletop RPG!
