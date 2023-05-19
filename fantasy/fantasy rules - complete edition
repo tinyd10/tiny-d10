@@ -1,0 +1,545 @@
+# Fantasy Rules
+### Complete Edition
+**Tiny d10: Fantasy** is a simple tabletop roleplaying game designed for use by one game master and two-to-six players. It requires just a single ten-sided die (d10), and some pencils & paper. In return, it will provide endless hours of dazzling heroics and tremendous dangers in epic lands of fantasy.
+
+### What is a Tabletop Roleplaying Game?
+In a very basic sense, a tabletop roleplaying game (RPG) is a set of rules that provide structure to adventures that are largely the product of a group’s collective imagination. The rules exist to ensure that the outcome of this play is logical, consistent, and fair, thus enabling players to engage in fast-paced, immersive action. 
+
+Each player creates a character. Through their characters, they interact with a fantasy world in which they will attempt to do many things – slay enemies, win allies, overcome odds, and more. The game master will analyze the results of their attempts in accordance with the game rules & die rolls and inform the players of their success or failure. The rules drive this action, so long as they stay out of the way.
+
+This is the objective of Tiny d10: enough rules to provide necessary order, but not so many that they complicate the game, which wants to be played – not calculated, debated, or disputed. The core rules are just ten pages long, and character creation can be completed in fifteen minutes or less. It is easy to learn and quick to play, ideal for both newcomers looking for a small learning curve and long-time players looking for quick action. To succeed in this game, one requires only an imagination and a spirit ever in search of fun and adventure.
+
+#### A Note to Game Masters (and Players)…
+Tiny d10 is a “lightweight” rule system, meaning that there aren’t a lot of rules at all. As such, game masters (and players) will invariably encounter situations for which there are no clear or specific rules. In such situations, the game group should come to an agreement on what is the most fair and logical way to achieve resolution – this should then stand as a “house rule”, the emergence of which allows groups to adapt the game to their natural style of play. In summary: if there’s no rule, make one up (and stick to it)!
+
+#### A Note to Creators…
+Tiny d10: Fantasy Core is built atop the [[Game Engine|Tiny d10 Game Engine]] – a flexible, genre-agnostic set of rules requiring just minimal adaptation to be used for any genre imaginable, from fantasy to sci-fi, and everything in-between. A number of these adaptations already exist and can be found on this very site!
+
+## Character Creation
+Use the following steps to create a character, selecting their race, class, and other relevant traits.
+### Races
+**Step 1:** *Select a race.* A character’s race provides a number of racial advantages, and also influences his or her attitude and general outlook.
+
+**Dwarves** are short, strong, and hardy, dwelling in mountains and caves, and living for 150+ years. They gain: +1 damage against goblins; -1 to magical attacks against the dwarf; the *craft* skill; and +1 hit point per level.
+
+**Elves** are tall, nimble, and wise, residing in forests and glades, and living for 500+ years. They gain: +1 damage to evil creatures; +1 to perception checks; immunity to poison; and +1 intellect.
+
+**Halflings** are short, swift, and jovial, dwelling in glens and shires, and living for 100+ years. They gain: +1 power point per level; -1 to ranged attacks against the halfling; the *hide* skill; and the *sneak* skill.
+
+**Humans** are tall, athletic, and courageous, residing in all corners of the land, and living for 80+ years. They gain: +1 damage to natural beasts; the *persuade* skill; an additional skill; and +1 aspect.
+
+### Classes
+**Step 2:** *Select a class.* A character’s class provides a number of class-specific abilities, further influences his or her worldview, and enhances his or her faculties.
+
+**Clerics** are holy warriors and possess divine magic and powerful healing abilities. They have a toughness of 6 (T6); use middleweight weapons & below; use middleweight armor & below; and gain +1 magic point and +2 power points. *Clerics begin with two class abilities:*
+
+>*Spell-casting (divine)* – start with 2 spells and cast divine spells for their cost in magic points; may not use any other type of spells.
+>
+>*Words of healing* – a short invocation that grants +2 temporary hit points to allies within earshot. Cost: 1 power point. 
+>***OR***
+>*Words of strength* – a short invocation that grants +1 power to allies within earshot; lasts for 1d5 combat rounds. Cost: 2 power points.
+
+**Rogues** are quick-thinking and fast acting, often styled as outlaws or vagabonds. They have a toughness of 6 (T6); use middleweight weapons & below; use lightweight armor only; and gain +1 hit point and +2 power points. *Rogues begin with three class abilities:*
+
+>*Deflect projectiles* – any projectile attack against you is a reflex challenge; if you win the challenge, the projectile is deflected.
+>
+>*Evade* – dodge a successful attack. Cost: 1 power point.
+>
+>*Feint* – if a melee attack fails, re-roll; the target suffers -1 toughness on this roll. Cost: 2 power points. 
+
+**Warriors** are masters of combat and arms, experts with blade and bow alike. They have a toughness of 7 (T7); use heavyweight weapons & below; use heavyweight armor & below; and gain +2 hit points and +1 power point. *Warriors begin with two class abilities:*
+
+>*Defensive rush* – stop an attack against an ally within your movement range; power (for melee attacks) or reflex (for ranged attacks) challenge versus the attacker: if you win, any damage is canceled; otherwise, you take the damage. Cost: 2 power points. 
+>
+>*Power strike* – increase the damage of your attack. Cost: 1 power point per point of damage increased.
+>***OR***
+>*Withstand* – decrease the damage of a successful attack against you. Cost: 1 power point per 1 point of damage decreased.
+
+**Wizards** are wise and cunning students of the magical arts. They have a toughness of 5 (T5); use lightweight weapons only; use featherweight armor only; and gain +3 magic points. *Wizards begin with three class abilities:*
+
+> *Prestidigitation* – creates a minor magical effect like colored smoke, blinking lights, disembodied sounds, etc.
+>
+>*Spell-casting (magical)* – start with 3 spells and cast magical spells for their cost in magic points; other spell types cost double (may not cast divine spells).
+>
+>*Splash-effect* – modifies an attack spell, causing it to inflict equal damage to all creatures within a 10-foot radius of the target (attack roll versus toughness for each creature). Cost: 1 power point.
+
+### Attributes
+**Step 3:** *Assign attribute scores.* Divide 3 points between the following attributes.
+
+**Aspect** is a measure of consciousness and charisma, and is used as a bonus during things like detecting intentions, or persuading/intimidating someone. Additionally, aspect is used as a bonus when casting divine spells.
+
+**Intellect** is a measure of mental acuity and sharpness, and is used as a bonus during things like detecting traps, or gathering information. Additionally, intellect is used as a bonus when casting magical spells.
+
+**Power** is a measure of physical strength, and is used as a bonus during things like breaking down doors, or restraining a hostile creature. Additionally, power is used as a bonus when making melee attacks.
+
+**Reflex** is a measure of speed, dexterity, and reaction, and is used as a bonus during things like dodging a rolling boulder, or jumping across a chasm. Additionally, reflex is used as a bonus when making ranged attacks (or melee attacks with small weapons, e.g. daggers).
+
+### Hit Points & Power Points
+**Step 4:** *Assign hit points and power points.* Divide 10 points between hit points and power points.
+
+**Hit points (HP)** represent the amount of damage a creature can suffer before dying. 
+
+**Power points (PP)** represent an entity’s physical stamina, and can be added as a bonus to all forms of rolls (must be declared prior to rolling). Additionally, power points can be expended to use class abilities.
+
+### Magic Points
+**Step 5:** *Generate magic points* (note: this step applies only to magic-users like the cleric or wizard). Roll 1d10: On a roll of 1-5, gain +4 magic points; on a roll of 6-9, gain +5 magic points; on a roll of 10, gain +6 magic points.
+
+**Magic points (MP)** represent an entity’s magical stamina, and are expended when casting spells.
+
+### Wealth
+**Step 6:** *Generate wealth.* Roll 1d10 for **gold** (gp), **silver** (sp), and **copper** pieces (cp), multiplying each result by 10.
+
+>1**cp** = $1 | 1**sp** = $10 | 1**gp** = $50
+
+## Game Rules
+Once your character is complete, it is time to play Tiny d10. Much of this time will be spent “roleplaying”, and will rely solely on your wit and quick thinking.
+
+However, there will be times when rolls are unavoidable. Any attempt to do something that necessitates skill to succeed, or that could result in failure, requires a check.
+
+### Checks
+When attempting to do something that could result in failure – like fording a raging river, staying astride a frightened horse, or hearing the soft footsteps of approaching enemies – a check should be made. To make a check, roll 1d10 and add the relevant attribute score (aspect, intellect, power, or reflex) and any relevant skill bonuses. *There are two types of checks:*
+
+**Action checks** are attempts to perform actions like climbing towers, dodging falling rocks, or hiding in nearby bushes. Action checks include attack rolls, challenges, and saves. Perception checks are attempts to perceive something, like seeing hidden or obscured objects and creatures, or hearing hushed voices and furtive movements. 
+
+**Perception checks** are attempts to perceive something, like seeing hidden or obscured objects and creatures, or hearing hushed voices and furtive movements. Perception checks are performed by rolling 1d10 and adding the **intellect** attribute score. Bonuses from the *spot* and/or *listen* skills may also be added, as relevant.
+
+#### Check Toughness
+To determine a check’s toughness (T), consider the following:
+
+| Toughness | Difficulty Level |
+| --- | --- |
+| **T2-5** | *Simple toughness* - pulling an ally up from a ledge, or climbing a wall with large handholds. |
+| **T6-9** | *Moderate toughness* - surprising unaware opponents, or fighting a strong current. |
+| **T10-11** | *Difficult toughness* - surprising watchful opponents, or picking an expertly-crafted lock. |
+| **T12-13** | *Extreme toughness* - leaping across a massive chasm, or scaling a sheer and smooth stone precipice. |
+| **T14-15** | *Impossible toughness* - controlling a ship during a gale, or mounting and flying a wild dragon. |
+
+### Saves
+When there is risk of immediate death or dismemberment – or similarly dire consequences – a save should be made. A standard save is performed by rolling 1d10 and adding relevant attribute scores and/or skill bonuses to the result. Succeeding a save cancels any deadly effects, but other effects (like serious injury) may still occur. A standard save has a toughness of 5 (T5), but certain conditions (e.g. spells, effects, environmental factors, etc.) can change that.
+
+### Challenges
+When two entities attempt the same thing at the same time, a challenge should be performed. The opposing parties each roll 1d10, adding the relevant attribute score and skill bonus(es) to the result. The results are then compared, and the higher of the two succeeds the challenge.
+
+### Combat
+Combat begins according to reflex scores: highest first, lowest last. Ties should be settled with a roll. Attack rolls work like action or perception checks. Roll 1d10 and add the relevant attribute score: if the result is equal to or higher than the target’s toughness, the attack is successful.
+
+#### Simplified Combat Rules
+1) One combat round consists of all combatants' turns; each turn represents roughly 5 seconds.
+2) Only one attack/ability/spell per turn (unless otherwise noted).
+3) Only one movement sequence per turn (if standing up after being knocked prone, movement range is reduced by half).
+4) Less significant actions may be done freely.
+5) Damage inflicted is 1, unless otherwise specified.
+6) Divine spells use **aspect**; magical spells use **intellect**; melee attacks use **power**; ranged and small weapon (e.g. dagger) attacks use **reflex**.
+
+#### Movement in Combat
+During combat, all classes are moderate in speed (unless otherwise specified) and may only move up to their maximum speed range per turn, though other factors – such as terrain – may affect this.
+
+| Slow | Moderate | Fast |
+| --- | --- | --- |
+| 20-40 ft. | 40-60 ft. | 60-80ft. |
+
+#### Combat Advantage
+When in an advantageous position (e.g. catching opponents unawares), a character may receive a bonus (e.g. +1 attack). However, if their attempt does not succeed, a negative condition should be imposed (e.g. the character is knocked down, suffering -1 toughness while prone).
+
+#### Non-lethal Combat
+During combat, non-lethal damage may be inflicted by making an unarmed attack, or by using the blunt edge or flat side of bladed weapons, or similar nonlethal means. Successful non-lethal attacks deal 1 damage; when an enemy has been reduced to 0 hit points by a non-lethal blow, they are knocked unconscious, instead of killed.
+
+A non-lethal or unarmed attack requires a successful attack roll against to strike the creature, in addition to a successful power challenge to damage it. If both rolls succeed, non-lethal damage is inflicted – otherwise, the target is simply struck, not injured.
+
+#### Monsters in Combat
+Monsters consist of all enemies and opponents of the characters, which may include humans and humanoids, natural beasts and unnatural monstrosities, evil living and undead, and more. In order to inflict damage on a monster, a player must make an attack roll that is equal to or higher than the monster’s toughness.
+
+A monster’s toughness in based on a number of components: hit points, damage bonuses, attributes, and more. To determine a monster’s toughness, consider the following table:
+
+##### Monster Toughness
+
+| Toughness | Difficulty Level |
+| --- | --- |
+| **T2-5** | *Simple toughness* - 1-5 HP; these monsters sometimes have bonuses, abilities, or skills, and rarely spells. |
+| **T6-9** | *Moderate toughness* - 6-12 HP; these monsters sometimes have bonuses, abilities and/or spells, and skills. |
+| **T10-11** | *Difficult toughness* - 10-20 HP; these monsters often have bonuses, abilities and/or spells, and skills.  |
+| **T12-13** | *Extreme toughness* - 15-30 HP; these monsters often have bonuses, abilities and/or spells, and skills. |
+| **T14-15** | *Impossible toughness* - 20-30+ HP; these monsters always have bonuses, abilities and/or spells, and skills. |
+
+### Healing
+At 0 hit points, characters are considered immobilized and dying, and will expire after 5 combat rounds.
+
+Standard healing restores 1-2 hit points, magic points, and power points per successful T6 intellect check (if the character possesses the *heal* skill, healing is an automatic success). Magical healing generally does not restore magic or power points (unless otherwise specified).
+
+During combat, an entire turn must be forfeit to heal (or to make a heal check). Out of combat, characters may make 1 heal check per every 4 in-game hours, or spend an entire day resting to restore 1d5 + 2 hit points, magic points, and power points.
+
+### Abilities
+Abilities are special feats and tactics that enhance a character’s proficiencies, and sometimes require the use of power points to invoke. Unless otherwise specified, *abilities that target opponents require an attack roll versus toughness* (as relevant).
+
+### Skills
+Skills are specific competencies and can only be used in specific scenarios. For example: the spot skill can be used in a perception check to see something; the persuade skill can be used in an aspect check to convince someone of something. When used, skills add a +1 bonus to checks. Skills can be used during combat, but not for combat.
+
+| Aspect | Intellect | Reflex |
+| --- | --- | --- |
+| Charm | Craft | Acrobatics |
+| Detect (*magic* or *motive*) |  Detect trap | Disarm trap |
+| Heal | Know (*history*, *nature*, or *religion*) | Hide |
+| Intimidate | Listen | Pick lock |
+| Persuade | Magic user | Sleight-of-hand |
+| Survival | Spot | Sneak |
+
+### Magic
+Magic is conjured using magic points (MP). Typically, only characters that possess the spell-casting class ability can use magic. Unless otherwise specified, spells are an automatic success.
+
+#### Gaining New Spells
+A spell-caster may forget old spells and learn new ones under the appropriate circumstances (e.g. learning them from long hours of study in the libraries or prayer in the temples); however, they may not learn more spells than the total number of spells they have gained at their level.
+
+##### Spell Saves
+Some spells allow the target to make a save before having an effect. Each spell-caster has a spell save, which is equal to their character level + casting attribute score (aspect or intellect) + 3. 
+
+### Leveling Up
+Characters begin as level 1 explorers, and gain levels by earning experience points (XP), which is accomplished by: slaying or defeating opponents (usually earning between 1-5 XP per opponent), obtaining treasures and riches (usually earning 1 XP per 10gp), or succeeding checks in spectacular and heroic ways (usually earning 1 XP). Experience points are lost upon advancement and must be gained anew.
+
+#### Level 2: Adventurer
+*Experience has honed a capable adventurer* (**50 XP**). You gain: a class ability; one skill; +2 hit points; +1 to any attribute; +2 power points or +2 magic points; and +1 toughness ***or*** 2 spells (if applicable).
+
+#### Level 3: Hero
+*Victory has shaped a prosperous hero* (**100 XP**). You gain: a class ability; one skill; +2 hit points ***or*** +1 toughness; +1 to any attribute; +1 power point or +2 magic points; and 1 spell (if applicable).
+
+#### Level 4: Champion
+*Immeasurable odds have forged a true champion* (**200 XP**). You gain: a class ability; one skill; +2 hit points; +1 toughness; +1 to any attribute ***or*** 1 spell (if applicable). Additionally, gain the *champion’s resolve* ability (re-roll once any time the result is 1). 
+
+#### Level 5: Legend
+*Dangers inconceivable have affirmed an everlasting legend* (**400 XP**). +2 to any attribute. Additionally, gain the *legendary presence* ability (the first time an opponent attacks you in combat, conduct an aspect challenge; if they fail, they suffer -2 to their attack).
+
+### Equipment 
+Equipment can augment a character’s abilities, enabling them to inflict additional damage, increasing their hit points and/or toughness, or granting other unique bonuses. There are four classes of equipment: featherweight (FW), lightweight (LW), middleweight (MW), and heavyweight (HW). A sample of common equipment includes:
+
+#### Armor
+Chainmail MW; +1 hit point, +1 toughness.
+Leather, heavy MW; +2 hit points.
+Leather, light LW; +1 hit point.
+Mithril FW; +2 hit points, +1 toughness. 
+Platemail HW; +3 hit points, +1 toughness; slow movement speed when equipped.  
+
+>**Note:** featherweight (FW) is a quality generally possessed by rare and/or magical equipment.
+
+#### Melee Weapons
+Flail MW; +1 damage.
+Greatsword HW; +1 attack, +1 damage.
+Polearm HW; +2 attack.
+Shield MW; +1 attack, +1 toughness. 
+Shortsword LW.
+
+#### Ranged Weapons
+Blowgun LW; range 40 ft.
+Crossbow, heavy MW; +1 damage; range 150 ft.
+Hand-axe LW; range 30 ft.
+Longbow MW; range 200 ft.
+Shortbow LW; range 100 ft.
+
+### Items
+There are a number of items available to characters that may be beneficial. A small sample includes:
+
+Healing potion Average potion restores 1d5 hit points.
+Spell scroll Contains one spell (may be used once); must be read aloud.
+Strength potion Average potion grants +1 power for 1d10 rounds.
+Ten-foot pole Can be used to trigger traps; +1 to perception checks to detect traps. 
+Thieves’ kit Contains lock-picking tools.
+
+### Spells List
+The below lists comprise a basic collection of two types of spells: divine and magical. Other spell types are supplementary, and not included in this book.
+
+#### Divine Spells
+Divine spells are cast solely by clerics, use the aspect attribute, and are granted by God to those dedicated followers deemed worthy.
+
+*Burning touch* – inflicts 1d5 damage to evil, undead, or otherwise unholy entities. Cost: 2 magic points.
+
+*Clearsight* – the target of this spell sees clearly into the world around them, revealing all hidden things (e.g. invisible entities, hidden objects, traps, etc.); lasts for your level amount of minutes. Cost: 1 magic point.
+
+*Consecrate* – designates an area (radius of 10 x your level ft.) as holy. Evil, undead, or otherwise unholy entities are unable to enter it; those entities already within it suffer 1 damage per round, as well as a -1 attack and -1 toughness penalty; lasts for 1d5 hours. Cost: 3 magic points.
+
+*Deathwatch* – reveals the remaining hit points of all entities within 50 ft. Cost: 1 magic point.
+
+*Divine medicine* – restores 1d5 + 1 hit points, magic points, and power points. Cost: 2 magic points (1 if the caster possesses the heal skill).
+
+*Fear of God* – inflicts a -1 toughness and -2 attack penalty for 1d5 rounds. Cost: 2 magic points.
+
+*Holy shield* – grants a +2 toughness bonus to yourself and any allies within 10 ft. for 1d5 + your level combat rounds. Cost: 3 magic points.
+
+*Sword of the Spirit* – conjures a ghostly sword with which to strike your opponent; inflicts 2 damage; attack roll versus toughness (+1 attack bonus); range 50 ft. Cost: 1 magic point.
+
+*To serpents* – transforms any weapon into a mass of writhing serpents for 1d10 combat rounds; if the target retains control of the serpents for more than one combat round, they must reflex save versus the caster’s spell save or be bitten (1 damage, -1 to attack for 1d5 rounds). Cost: 2 magic points (4 to make the effects of the spell permanent).
+
+*Turn undead* – all undead entities within 50 ft. must flee your presence for 1d5 rounds; when this spell is first cast, all undead must aspect save versus caster’s spell save or suffer 1 damage. Cost: 2 magic points. 
+
+#### Magical Spells
+Magical spells are cast best by wizards, use the intellect attribute, and are learned through the long study of ancient tomes and grimoires.
+
+*Animate statue (medium)* – animates a statue (T5; 1d5 + your level HP; +1 power) of medium size or smaller; follows your basic commands. Cost: 3 magic points.
+
+*Ball of light* – a powerfully luminous orb. Cost: 0 magic points.
+
+*Charm (person **or** animal)* – 1 non-hostile, intelligent person or animal is immediately friendly to you; hostile persons or animals must intellect save versus caster’s spell save to prevent; lasts for 1d10 x your level minutes. Cost: 1 magic point.
+
+*Create magic item* – imbues a small item with the power of any spell you know; requires 10 - your level hours to create the item. Cost: 3 magic points.
+
+*Detect thoughts* – hear the active thoughts of a target. Cost: 2 magic points.
+
+*Dispel magic* – eliminates any magical effect. Cost: 2 magic points.
+
+*Dumbstruck* – one target suffers a 1d5 penalty to intellect for 1d10 rounds; intellect save versus caster’s spell save to reduce duration by half. Cost: 2 magic points. 
+
+*Featherfall* – affects an object up to 100 x your level pounds; range 100 ft. Cost: 1 magic point. Fireball I – inflicts 1d5 + 1 damage; attack roll versus toughness; range 50 ft. Cost: 2 magic points.
+
+*Heal* – restores 1d5 hit points. Cost: 2 magic points (1 if the caster possesses the heal skill). Imprint spell – temporarily learn any magical spell cast during the active combat encounter and cast it at cost; lasts for duration of combat encounter.
+
+*Mage armor* – gain a toughness bonus equal to your level for 1d5 + your level rounds. Cost: 2 magic points (3 if cast on a nearby target).
+
+*Magic missile I* – inflicts 1 damage; attack roll versus toughness; range 100 ft. Cost: 0 magic points (2 to automatically strike the target).
+
+*Permanence* – causes the effect(s) of any spell to become permanent. Cost: 5 magic points.
+
+*Phantom hand* – opens doors, moves objects, and attacks opponents (standard melee attack) within your line of sight. Cost: 1 magic point.
+
+### Advanced Spells List
+Spells for magic-users level 3 and above.
+
+#### Advanced Divine Spells
+*Burning touch II* – inflicts 1d5 + your level damage on evil, undead, or otherwise unholy entities; this attack can be conducted against two targets simultaneously. Cost: 3 magic points per target.
+
+*Cataclysm* – summons deadly, cataclysmic conditions; each round, all entities (caster and allies immune) within 100 ft. of target must power save versus caster’s spell save or suffer 1 damage; lasts for 1d10 + your level rounds. Cost: 5 magic points. 
+
+Additionally, the type of cataclysm summoned by the caster causes one the following conditions:
+
+| Cataclysm | Effect |
+| --- | --- |
+| Earthquake | -1 attack, -1 toughness. |
+| Firestorm | +1 damage per combat round. |
+| Flooding | Prevents ranged attacks. |
+
+*Healing light* – restores 1d10 hit points to one target in your line of sight. Cost: 2 magic points (1 if the caster possesses the *heal* skill).
+
+*Healing wave* – restores 1d5 hit points to your level amount of targets (within 20 ft.). Cost: 2 magic points (1 if the caster possesses the *heal* skill).
+
+*Holy binds* – all evil, undead, or otherwise unholy creatures in a 50 ft. radius are bound for your level amount of combat rounds. Cost: 2 magic points.
+
+*Inflict wounds* – inflicts 1 damage per magic point spent. Cost: 1 magic point. 
+
+*Protective spirit* – cancels any one successful action (e.g. ability, attack, spell, etc.). Cost: 3 magic point.
+
+*Sunburst* – inflicts 1d10 damage, blinds any creature within a 10-foot radius of the target for 1d5 rounds (-2 to attack and reflex); aspect save versus caster’s spell save to reduce damage by half; range 30 ft. Cost: 4 magic points.
+
+*Resurrection* – restores to life any recently deceased entity, healing all wounds, diseases, or other conditions affecting its body at the time of its death. Cost: 6 magic points.
+*Ward (divine)* – resist the effects (but not the damage) of any attack or spell cast by an evil, undead, or otherwise unholy entity for the duration of combat encounter. Cost: 2 magic points (1 if cast on a nearby target).
+
+#### Advanced Magical Spells
+*Animate statue (large)* – animates a statue (T7; 1d10 + your level HP; +2 power) of large size or smaller; follows your basic commands. Cost: 4 magic points.
+
+*Detect magic* – range 100 ft. Cost: 0 magic points.
+
+*Enchant weapon* – touch a weapon to enchant it with a +1 attack and +2 damage bonus for the duration of combat encounter. Cost: 2 magic points.
+
+*Fireball II* – inflicts 1d5 damage on up to five creatures within 10 ft. of the target; attack roll versus toughness; range 50 ft. Cost: 2 magic points.
+
+*Invisibility* – the target remains invisible for up to your level amount of hours, or until attacking. Cost: 2 magic points.
+
+*Magic missile II* – inflicts 2 damage; attack roll versus toughness (+1 attack bonus); range 100 ft. Cost: 1 magic point (2 to automatically strike the target).
+
+*Ray of death* – inflicts 1d10 damage; aspect or reflex save versus caster’s spell save to reduce damage by half; range 50 ft. Cost: 4 magic points.
+
+*Repel* – all creatures within your path are repelled by an unseen force, pushed aside or otherwise kept 5 ft. from you for the duration of this spell; last for 1d5 + your level movement sequences. Cost: 2 magic points.
+
+*Reprisal* – any time you are struck, an opponent that has previously struck you suffers the damage instead; lasts for the duration of combat encounter. Cost: 3 magic points.
+
+*Reverse gravity* – affects a radius of 50 x your level ft.; lasts for your level amount of hours; range 100 ft. Cost: 3 magic points.
+
+*Spectral sword* – one mighty thrust inflicts 1d5 damage; range 50 ft. Cost: 4 magic points.
+
+*Teleport* – range 200 ft. Cost: 2 magic points.
+
+*Time stop* – time freezes within your line of sight (caster immune); lasts for 1d5 rounds. Cost: 4 magic points.
+
+*Vaporous form* – take the form of a small, innocuous strand of fog or mist; lasts for 1d10 x your level minutes. Cost: 3 magic points.
+
+*Ward (magical)* – resist the effects (but not the damage) of magical spells for the duration of combat encounter. Cost: 2 magic points (3 if cast on a nearby target). 
+
+### Additional Class Abilities
+As characters advance, new class abilities become available.
+
+#### Cleric Additional Class Abilities
+*Appeal to heaven* – when reduced to half of your total hit points, gain a +1 attack and damage bonus, and suffer no damage for your level amount of rounds. Cost: 2 power points.
+
+*Bless weapon* – touch a weapon to imbue it with radiant energy, granting it a +1 damage bonus, and causing it to inflict 1d5 damage to evil, undead, or otherwise unholy entities; lasts for duration of combat encounter. Cost: 2 power points.
+
+*Blessed* – re-roll any failed roll. Cost: 3 power points (4 if applied to a nearby ally). 
+
+*Call to battle* – all allies roll 1d10: on a roll of 6 or higher, they gain an additional attack on their next combat turn. Cost: 2 power points.
+
+*Counterattack* – any time an opponent rolls a 1 against you in melee combat, you knock them prone.
+
+*Divine purpose* – permanently gain +2 to all saving throws.
+
+*Favored weapon* – choose a favored weapon (type); on an attack roll of 10 using that weapon, inflict 1d5 damage.
+
+*Healing sacrifice* – fully heal allies within 50 ft. Cost: 1 hit point and 2 power points per ally healed.
+
+*Radiant strike* – on a melee attack roll of 10, a burst of heavenly light blinds your target for one combat round (-2 to attack and reflex).
+
+*Righteous anger* – permanently gain +1 power.
+
+*Smite* –inflicts 1d10 damage on an evil, undead, or otherwise unholy entity. Cost: 3 power points.
+
+*Supernatural vitality* – gain +2 toughness when reduced to 1 hit point.
+
+*Thunderous blow* – double your melee attack and damage bonus for one round (if your attack is successful, roll 1d10: on a roll of 6 or higher, the target is also knocked prone). Cost: 2 power points.
+
+*Walk on water* – lasts your level amount of minutes. Cost: 1 power point.
+
+*Wrath* – gain a +1 damage bonus against all evil, undead, or otherwise unholy entities.
+
+#### Rogue Additional Class Abilities
+*Bloody slash* – for every successful melee attack you make using a bladed weapon, roll 1d10: on a roll of 6 or higher, the attack inflicts double damage.
+
+*Cat’s paw* – reduce all fall damage by half, rounded down.
+
+*Charismatic* – permanently gain +1 aspect.
+
+*Critical strike* – any time you roll a 10 in melee or ranged combat, the target becomes dazed and suffers -1 to all rolls for your level amount of rounds.
+
+*Disguise* – alter your appearance using disguises, trickery, or other techniques of deception at your disposal; intellect challenge (you gain a +2 bonus in this challenge) to recognize the illusion. Cost: 1 power point.
+
+*Fanged strike* – any time you roll a 10 in melee combat, gain an amount of hit points equal to the damage you inflict on your target.
+
+*Fast* – become fast in speed and move up to 80 ft. per combat round. Hail of daggers – launch 1d5 + your level daggers at one target; inflicts 1 damage per dagger. Cost: 3 power points.
+
+*Haste* – forgo your attack action to move up to double your maximum speed. 
+
+*Paralyzing strike* – any time you roll a 10 in melee combat, the target is paralyzed for your level amount of rounds; T5 aspect save to reduce paralysis to one round.
+
+*Petty thief* – gain a +2 bonus to all attempts to conceal, steal, or pilfer something (game master’s discretion).
+
+*Prying eye* – discover and exploit a target or obstacle’s weaknesses, reducing its toughness by 2 for one attempt, or one combat round. Cost: 2 power points.
+
+*Rapid regeneration* – any time you heal (or are healed), restore double the amount of hit points.
+
+*Sudden strike* – any time an opponent rolls a 10 against you in melee combat, gain an attack prior to their attack.
+
+*Tactical retreat* – after a successful melee attack (and even if you have moved during this combat round) you may retreat to just outside of your opponent’s movement range. Cost: 1 power point.
+
+#### Warrior Additional Class Abilities
+*Battle lock* – any time an opponent attempts to flee or leave your immediate area during melee combat, gain an attack against it.
+
+*Brawl* – when fighting barehanded or dealing non-lethal damage, gain a +2 attack bonus.
+
+*By will alone* – resist the effects (but not the damage) of a spell targeting you. Cost: 2 power points.
+
+*Commanding presence* – force opponents within 30 ft. to target you; gain +1 toughness when facing two or more opponents, and +2 toughness when facing four or more; lasts for the duration of combat encounter. Cost: 3 power points.
+
+*Deathless* – when reduced to 1 hit point, if an opponent successfully strikes you, they must succeed a power challenge (you gain a +1 bonus in this challenge) to inflict damage.
+
+*Disarm* – any time you roll a 10 during melee combat, conduct a power challenge: if you win the challenge, you disarm your opponent (in addition to inflicting damage or any other effects).
+
+*Explosive power* – if you fail a melee attack roll, add any number of power points as an attack bonus to that failed roll. Cost: 1 power point per attack bonus point. 
+
+*Heroics* – when conducting any check involving heroic acts or values, gain a +2 bonus (game master’s discretion).
+
+*One man army* – on your combat turn, make a melee attack against multiple opponents within striking range. Cost: 1 power point per target.
+
+*Overpower* – reroll a failed power challenge. Cost: 1 power point.
+
+*Pummel* – any time you roll a 10 in melee combat, knock your opponent prone. Raised by the sword – when facing an opponent also armed with a sword, gain a +1 attack bonus.
+
+*Stunning blow* – inflicts 2 damage; target must succeed a power challenge to prevent being knocked prone and unconscious for 1d5 rounds; attack roll versus toughness (+1 attack bonus). Cost: 2 power points.
+
+*Weapon proficiency* – choose a specific weapon type (e.g. axe, bow, hammer, sword, etc.); when using that weapon type, gain a +1 attack or damage bonus.
+
+#### Wizard Additional Class Abilities
+*Appraise* – determine any item’s worth with reliable accuracy.
+
+*Apprentice/Familiar* – any willing intelligent creature may become your apprentice or any charmed animal may become your familiar (costing 4 magic points per pact). Once per combat encounter (or at the cost of 1 power point), your apprentice/familiar (T5; 4-6 HP) can conduct a melee attack (with advantage) and cast one spell that you know.
+
+*Arcane knowledge* – reduce spell cost by 1 magic point (may not reduce spell cost to 0). Enchanted healing – convert any amount of magic points into hit points for yourself or allies within your line of sight.
+
+*Magical disruption* – spells targeting you or nearby allies suffer a -1 penalty to their attack roll.
+
+*Magical intrusion* – doors unlock before you, and relock after your passing (must possess the pick lock skill).
+
+*Magical power* – convert all power points to temporary magic points; gain +1 toughness for 1d5 rounds.
+
+*Multi-cast* – cast other spell types (e.g. dark, natural, illusion, etc.) for their cost in magic points.
+
+*Polyglot* – learn a new tongue solely by hearing it spoken; know 3 x your level languages.
+
+*Prodigious casting* – gain an additional +1 magic point each time you advance a level (including this one).
+
+*Re-spell* – if you cast a spell last combat round, you may cast it again for half its cost (rounded up) in magic points.
+
+*Resist magic* – any time you are the target of a magical spell attack, conduct an intellect challenge against the attacker; if you succeed, the effects of the spell (but not the damage) are cancelled.
+
+*Spell adept* – any time you heal (or are healed), restore double the amount of magic points.
+
+*Swift* – permanently gain +1 reflex.
+
+*War mage* – permanently gain +1 hit point, +1 power point, and +1 toughness.
+
+## For Game Masters
+The game master (GM) operates the world in which adventures unfold. He or she knows the setting, portrays non-player characters (NPCs), commands the monsters, controls environmental events, and more. The players interact with and influence these elements through their player characters (PCs).
+
+This section consists of rules that will aid GMs in running games in which all manner of things can – and will – happen.
+
+### Time
+Tracking the passage of time provides structure to things like combat rounds, restoring hit points, regenerating magic and power points, exploring dungeons, traveling through wilderness, consuming food or rations (a character must eat at least one meal per day or else suffer a penalty imposed by the GM), and more.
+
+#### Time in the Dungeon
+Time spent exploring and moving through dungeons is measured in turns – one turn represents about 10 minutes. During this time, several actions can occur:
+
+1) The GM may check for wandering monsters (1- in-5 chance);
+2) Characters may perform one or more perception checks (as necessary) to search for monsters, traps, treasures, or supplies;
+3) Characters may move up to ten times their movement speed (though they may move more quickly with a penalty imposed by the GM).
+
+#### Time in the Wilderness
+Time spent exploring and traveling across wilderness is measured in turns, with one turn representing four hours. During this time, several actions can occur:
+1) The GM may check for wandering monsters (1- in-5 chance);
+2) Characters may perform a perception check to search for monsters et al., foraged food (1-in-5 chance), and hunted food (1-in-10 chance). If characters dedicate the entire day to foraging or hunting, they automatically succeed in finding foraged food enough for the party for the day, and increase their chances of finding hunted food (1-in-5) enough for the party for 1d5 days.
+3) Characters may move at a rate of two miles per hour (or more quickly with penalty).
+
+### Exploration
+A significant amount of time is spent on exploration, which is typically split between three location types: cities/towns, dungeons, and wilderness areas.
+
+#### Exploring a Dungeon
+When exploring a dungeon, at least one player should maintain a map of the party’s course, to prevent their becoming lost.
+
+#### Exploring the Wilderness
+When exploring the wilderness, parties traversing the untamed wilds are at risk of losing their direction. Depending on the difficulty of navigating the terrain, there is between a 1-in-10 and 1-in-2 chance of the party losing their direction and pursuing the wrong course. At the beginning of each day the party spends in the wilderness, the GM should roll 1d10 to determine if the party loses their direction. If any characters possess the *know nature* skill, their +1 bonus(es) may be used to improve the result.
+
+### Wandering Monsters
+In many of these locations (particularly dungeons and wilderness areas) there is a high likelihood of encountering wandering monsters. Most times, the reactions of these monsters are immediately apparent, and generally consistent with their moral alignment; other times, reactions are less certain. In these instances, GMs should roll 1d10 and use the following table to determine their initial demeanor:
+
+| Roll | Reaction |
+| --- | --- |
+| 1-4 | Hostile and aggressive, will attack |
+| 5-6 | Hostile, may attack |
+| 7-8 | Unfriendly, hesistant |
+| 9 | Neutral, disinterested |
+| 10 | Friendly; possibly helpful |
+
+#### Monster Morale
+During combat, an opponent’s morale may be affected by two events: the first time its ally is slain, and when more than half of its allies have been slain. Any time one of these two events occur, the GM should roll 1d10: if the result is 2 or below, the opponents’ morale falters, and they may consider fleeing. It is up to the GM to determine how (and if) the opponents flee – whether they panic and run, retreat while fighting, or otherwise.
+
+### Crawling the Dungeon
+To provide game masters some technical guidance for characters exploring and interacting with dungeons and their various features, the following are mechanical rules for “dungeon crawling”.
+
+#### Doors
+Inside a dungeon, doors present a tactical challenge. They may be locked, necessitating lock-picking tools; they may be enchanted, requiring the dispel magic spell to use; they may be trapped, triggering a deadly attack when opened; they may be hidden, requiring a successful perception check to discover; or they may be old and hung on a rusted hinge, the noise from which may attract wandering monsters. 
+
+Additionally, locked or stuck doors can be broken down or forced opened with a successful power check against the door’s toughness. This tactic should be used with great caution, however, as applying force can be loud, and risks alerting nearby enemies. Any time a door is broken down, a wandering monster check should be made.
+
+#### Locks
+A locked door can be opened with a key or picked with lock-picking tools (found in a thief’s kit), which requires a successful reflex check against the lock’s toughness. 
+
+#### Traps
+All traps possess at least three components: toughness to detect, toughness to disarm, and toughness to save against (these values are often identical).
+
+Falling rock T6; rocks and boulders fall from the ceiling; inflicts 2-3 damage. Hidden pit T7; spiked pit 10 ft. wide; inflicts 1d5 damage. Poison gas T6; affects a radius of 5 ft.; inflicts 1-2 damage.
+
+To detect a trap, a character must be actively searching the immediate area using a perception check. To disarm a trap, a character must 1) possess a thief’s kit, and 2) succeed a reflex check against the trap’s toughness. Disarming magical traps requires the dispel magic spell.
+
+-------
+
+This completes **Tiny d10: Fantasy Rules**. For additional content, consider [[Complete Fantasy Monsters|Fantasy Monsters]] and the one-shot adventure, [[The Broken Light]].
